@@ -1,0 +1,8 @@
+# dev is the development branch
+repo: https://github.com/ntop/ntopng#dev
+
+primary_contact: gabriele@ntop.org
+
+homepage: https://www.ntop.org/products/traffic-analysis/ntop/
+
+disabled: false
